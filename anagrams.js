@@ -4,9 +4,6 @@
 //     const sortedStr1 = str1.split('').sort().join('');
 //     const sortedStr2 = str2.split('').sort().join('');
 
-//     console.log('sortedStr1', sortedStr1);
-//     console.log('sortedStr1', sortedStr2);
-
 //     return sortedStr1 === sortedStr2;
 // }
 

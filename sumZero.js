@@ -34,4 +34,4 @@ function sumZero(arr) {
     }
 }
 
-// console.log('ssss', sumZero([2, 1, 5 - 3, -5, -2, -1, 0, 1, 2, 3, 5]));
+console.log('ssss', sumZero([-3, -5, -2, -1, 0, 1, 2, 3, 5]));

@@ -12,6 +12,7 @@
 -   Max sum of sub arrays from the given number length (two arguments are passed array and number, number denotes the maximum
     possible value of the sum of array based on the number length)
 -   Sum Zero (from the array get the first pair of numer whose sum is 0 )
+-   Average Pair (take an array and a value, check if the average between sums can result in the value)
 
 #
 
